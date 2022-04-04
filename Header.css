@@ -1,0 +1,21 @@
+.header{
+    position: relative;
+    width: 100%;
+    height: 70px;
+    background-color: #98b526;
+}
+.logo{
+    position: absolute;
+    width: 72px;
+    height: 72px;
+    background: url(rlogo.jpg);
+    background-size: 72px;
+}
+h6 {
+    position: absolute;
+    color: #000000;
+    margin-left:100px;
+    margin-top:10px;
+    font-size: xx-large;
+    font-weight: bold;
+}

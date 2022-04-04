@@ -1,0 +1,40 @@
+.footer{
+    position: relative;
+    width: 100%;
+    height: 54px;
+    background-color: #524684;
+}
+.icons{
+    position: absolute;
+    display: inline-block;
+    width: 600px;
+    height: 54px;
+    justify-content: center;
+    left: 575px;
+    /* background-color: black; */
+}
+.firstIcon{
+    display: inline-block;
+    width: 54px;
+    height: 54px;
+    background: url(http://cdn.onlinewebfonts.com/svg/img_394934.png);
+    background-size: 54px;
+    margin-right: 3px;
+
+}
+.secondIcon{
+    display: inline-block;
+    width: 54px;
+    height: 54px;
+    background: url(https://www.freepngimg.com/thumb/facebook/62541-computer-facebook-icons-free-hq-image.png);
+    background-size: 54px;
+    margin-left: 90px;
+}
+.thirdIcon{
+    display: inline-block;
+    width: 54px;
+    height: 54px;
+    background: url(https://icon-library.com/images/instagram-logo-eps-png-inspiring-instagram-logo-vector-free-download-21-for-your-logo-design-ideas-with-instagram-logo-vector-free-download-1600.png);
+    background-size: 54px;
+    margin-left: 90px;
+}
